@@ -1,0 +1,15 @@
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\bin\Debug\net6.0\Zadacha6.exe
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\bin\Debug\net6.0\Zadacha6.deps.json
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\bin\Debug\net6.0\Zadacha6.runtimeconfig.json
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\bin\Debug\net6.0\Zadacha6.dll
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\bin\Debug\net6.0\Zadacha6.pdb
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.csproj.AssemblyReference.cache
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.AssemblyInfoInputs.cache
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.AssemblyInfo.cs
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.csproj.CoreCompileInputs.cache
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.dll
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\refint\Zadacha6.dll
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.pdb
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\Zadacha6.genruntimeconfig.cache
+C:\Users\смарт\Desktop\Home1_2\Zadacha6\obj\Debug\net6.0\ref\Zadacha6.dll
